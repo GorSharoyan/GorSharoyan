@@ -14,8 +14,10 @@
 -🚀 I’m going to participate in the next Cicada 3301 (Hope So) 
 
 ---
-<img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/facebook.svg" />    [Gor Sharoyan](https://www.facebook.com/gor.aroyan.3)
-<img  height="10"  width="10"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /> [Gor Sharoyan](https://www.linkedin.com/in/gor-sharoyan-759b1b189/)
+<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/facebook.svg" />    [My Social](https://www.facebook.com/gor.aroyan.3)
+<img  height="15"  width="15"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /> [My Experience](https://www.linkedin.com/in/gor-sharoyan-759b1b189/)
+<img  height="15"  width="15"  src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/acclaim.svg" /> [My Badges](https://www.credly.com/users/gor-sharoyan/badges)
+
 ---
 
 ### Languages and Tools:
