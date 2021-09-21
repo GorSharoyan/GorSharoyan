@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-##About Me : My name is Gor and :
+## My name is Gor and :
 -🔭 I’m currently working at Bi Line Ltd
 
 -🐱‍👤 I’m currently heping to configure and integrate Datacenter Solutions
