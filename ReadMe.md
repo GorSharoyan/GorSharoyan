@@ -2,10 +2,15 @@
 
 ##About Me : My name is Gor and :
 -🔭 I’m currently working at Bi Line Ltd
+
 -🐱‍👤 I’m currently heping to configure and integrate Datacenter Solutions
+
 -🌱 I’m currently learning functional programming (React.js)
+
 -💚 I'm mostly pushing data to other branches rather than master 
+
 -🐱‍💻 I’m currently building my own CRUD App projects 
+
 -🚀 I’m going to participate in the next Cicada 3301 (Hope So)
 
 
@@ -37,9 +42,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GorSharoyan&count_private=true&hide=stars,prs&show_icons=true&theme=react)](https://github.com/GorSharoyan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorSharoyan&layout=compact&theme=react)](https://github.com/GorSharoyan/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GorSharoyan&count_private=true&hide=stars,prs&show_icons=true&theme=react)](https://github.com/GorSharoyan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorSharoyan&layout=compact&theme=react)](https://github.com/GorSharoyan/github-readme-stats)
 
 
 <!-- 
