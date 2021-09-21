@@ -13,7 +13,7 @@
 
 -🚀 I’m going to participate in the next Cicada 3301 (Hope So) 
 
-<br><br>
+---
 <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.0/icons/facebook.svg" />    [Gor Sharoyan](https://www.facebook.com/gor.aroyan.3)
 <img  height="10"  width="10"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /> [Gor Sharoyan](https://www.linkedin.com/in/gor-sharoyan-759b1b189/)
 ---
