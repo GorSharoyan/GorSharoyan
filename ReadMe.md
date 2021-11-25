@@ -2,7 +2,7 @@
 
 -🔭 I’m currently working at Bi Line Ltd 
 
--🐱‍👤 I’m currently heping to configure and integrate Datacenter Solutions 
+-🐱‍👤 I’m currently helping to configure and integrate Datacenter Solutions 
 
 -🌱 I’m currently learning functional programming (React.js) 
 
